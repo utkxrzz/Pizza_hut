@@ -1,4 +1,4 @@
-# SQL For Data Analysis Full Portfolio Project
+# SQL For Data Analysis Portfolio Project
 
 ## Overview
 
